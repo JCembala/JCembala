@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Jakub
 
 # 💫 About Me:
-💎 Ruby on Rails Developer<br>🌍 I'm based in Poland<br>⭐️ Currently working as Ruby on Rails Developer who is super enthusiastic about coding to make a change. Previously was writing cool stuff for smart homes with help of C++.<br>When not in coding fever, I'm either lost in gardening stuff, hiking with my dog, watching Supernatural or anime<br>
+💎 Backend Developer<br>🌍 I'm based in Poland<br>⭐️ Currently working as Ruby on Rails Developer who is super enthusiastic about coding to make a change.<br> Previously was writing cool stuff for smart homes with help of C++.<br>When not in coding fever, I'm either lost in gardening stuff, hiking with my dog, watching Supernatural or anime<br>
 
 
 ## 🌐 Socials:
